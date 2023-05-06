@@ -3,7 +3,7 @@ import numpy as np
 import keras
 #import tensorflow.keras as keras
 
-#Will This Change come there?
+#Nelson can you read?
 
 class CNN(object):
     def __init__(self):
