@@ -3,8 +3,6 @@ import numpy as np
 import keras
 #import tensorflow.keras as keras
 
-#Nelson can you read?
-
 class CNN(object):
     def __init__(self):
         self.model= keras.models.Sequential()
